@@ -12,7 +12,7 @@
 # 如何运行
 （1）下载 uni-app 官方 IDE HBuilderX (https://www.dcloud.io/hbuilderx.html)
 
-（2）将后端代码文件夹导入到 HBuilderX 中
+（2）将后端代码文件夹导入到 HBuilderX 中，在当前文件夹运行 npm install
 
 （3）到 [uniCloud 控制台](https://unicloud.dcloud.net.cn/home) 创建一个阿里云服务空间
 
